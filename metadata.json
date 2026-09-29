@@ -1,0 +1,8 @@
+{
+  "name": "MediBridge AI",
+  "description": "AI-powered healthcare workflow automation prototype connecting patients, doctors, appointments, lab results, and transparent cost estimation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
